@@ -6,10 +6,11 @@
 
    ```sh
    npm install
+   npm start
+
    ```
 
 
-    ```sh
-    npm start
-    ```
+   
+
 
